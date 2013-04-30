@@ -1,0 +1,12 @@
+# Ignore IntelliJ project files
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Ignore Gradle temp directories
+.gradle
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
